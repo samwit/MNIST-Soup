@@ -1,0 +1,8 @@
+__pycache__/*
+checkpoints/*
+data/*
+.ipynb_checkpoints/*
+/mlp/.ipynb_checkpoints/
+/basic_cnn/.ipynb_checkpoints/
+/bigger_cnn/.ipynb_checkpoints/
+/lstm/.ipynb_checkpoints/
